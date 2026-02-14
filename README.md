@@ -1,47 +1,69 @@
 # Hi 👋, I'm Furkan Kuş
 
-### I like computer science with all fields
+🚀 **Senior DevOps Engineer | Kubernetes | CI/CD | Observability | Azure**
+
+I design, build and operate **production-grade infrastructures** with a strong focus on automation, reliability, and observability.
+
+---
+
+## 🧠 What I Do
+
+- Design scalable **CI/CD pipelines**
+- Build and operate **Kubernetes-based production environments**
+- Implement **monitoring, logging and alerting systems**
+- Perform **cloud → on-prem & hybrid infrastructure migrations**
+- Optimize **system reliability, performance and cost**
+
+---
+
+## 🛠 Tech Stack
+
+**Container & Orchestration:**  
+Docker, Kubernetes  
+
+**CI/CD & Automation:**  
+GitHub Actions, Azure DevOps  
+
+**Cloud & Infrastructure:**  
+Microsoft Azure, Linux, Nginx  
+
+**Observability:**  
+Prometheus, Grafana, ELK Stack  
+
+**Databases & Messaging:**  
+PostgreSQL, MySQL, Elasticsearch, Kafka  
+
+**Scripting:**  
+Bash  
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **AWS → On-Prem Migration Blueprint (Production)**
+- 🔹 **Kubernetes Observability Stack (Prometheus + Grafana + Loki)**
+- 🔹 **PostgreSQL High Availability Cluster (Primary + Replica)**
+- 🔹 **CI/CD Pipelines with GitHub Actions & Azure DevOps**
+- 🔹 **Nginx Load Balancer & Reverse Proxy Architectures**
+
+---
+
+## 🎯 Current Focus
+
+- Kubernetes production architectures  
+- CI/CD optimization  
+- Observability & SRE practices  
+- Infrastructure automation  
+
+---
+
+## 📫 Contact
+
+📧 **furkankus@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/furkan-kuş/
+
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=furkankus&label=Profile%20views&color=0e75b6&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=furkankus)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 💬 Ask me about  
-SQL, C#, Docker, Kubenetes, Azure DevOps
-
-### 📫 How to reach me  
-furkankus@gmail.com
-
----
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-kuş/)
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
----
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=furkankus&show_icons=true&locale=en&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=furkankus&show_icons=true&locale=en)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=furkankus)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkankus&show_icons=true&theme=default)
