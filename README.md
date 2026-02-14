@@ -1,6 +1,6 @@
 # Hi 👋, I'm Furkan Kuş
 
-🚀 **Senior DevOps Engineer | Kubernetes | CI/CD | Observability | Azure**
+🚀 **DevOps Engineer | Kubernetes | CI/CD | Observability | Azure**
 
 I design, build and operate **production-grade infrastructures** with a strong focus on automation, reliability, and observability.
 
